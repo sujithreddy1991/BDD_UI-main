@@ -1,7 +1,0 @@
-{
-  "name": "<name>",
-  "emailAddress": "<emailAddress>",
-  "recipientId": "<recipientId>",
-  "signerClientId": "<signerClientId>",
-  "returnUrl": "<returnUrl>"
-}
