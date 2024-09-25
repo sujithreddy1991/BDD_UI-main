@@ -1,10 +1,278 @@
 {
-  "actionKey": "<actionKey>",
-  "participantKey": "<participantKey>",
-  "engagementKey":"<engagementKey>",
-  "wardKey":"<wardKey>",
-  "actionTakenOn": "2021-11-23T08:14:22.981-07:00",
-  "characteristics": {
-    "state": "AZ"
-  }
+"organization": {
+"duns": "854404636",
+"isFortune1000Listed": null,
+"isForbesLargestPrivateCompaniesListed": null,
+"industryCodes": [
+{
+"code": "541512",
+"description": "Computer Systems Design Services",
+"typeDescription": "North American Industry Classification System 2022",
+"typeDnBCode": 37788,
+"priority": 1
+},
+{
+"code": "73790000",
+"description": "Computer related services, nec",
+"typeDescription": "D&B Standard Industry Code",
+"typeDnBCode": 3599,
+"priority": 1
+},
+{
+"code": "6203",
+"description": "Computer facilities management activities",
+"typeDescription": "NACE Revision 2",
+"typeDnBCode": 29104,
+"priority": 1
+},
+{
+"code": "7379",
+"description": "Computer related services",
+"typeDescription": "US Standard Industry Code 1987 - 4 digit",
+"typeDnBCode": 399,
+"priority": 1
+},
+{
+"code": "42",
+"description": "Computer System Design Services",
+"typeDescription": "D&B Hoovers Industry Classification",
+"typeDnBCode": 35912,
+"priority": 1
+},
+{
+"code": "I",
+"description": "Services",
+"typeDescription": "D&B Standard Major Industry Code",
+"typeDnBCode": 24657,
+"priority": 1
+},
+{
+"code": "6202",
+"description": "Computer consultancy and computer facilities management activities",
+"typeDescription": "ISIC Revision 4",
+"typeDnBCode": 42726,
+"priority": 1
+}
+],
+"isNonClassifiedEstablishment": null,
+"primaryIndustryCode": {
+"usSicV4": "7379",
+"usSicV4Description": "Computer related services"
+},
+"primaryName": "EXOSTAR INDIA PRIVATE LIMITED",
+"controlOwnershipDate": "2021-05-25",
+"isStandalone": true,
+"telephone": [],
+"isAgent": null,
+"isImporter": null,
+"isExporter": null,
+"isSmallBusiness": null,
+"organizationSizeCategory": {},
+"tradeStyleNames": [],
+"registeredAddress": {},
+"primaryAddress": {
+"language": {
+"description": "English",
+"dnbCode": 39
+},
+"addressCountry": {
+"name": "India",
+"isoAlpha2Code": "IN"
+},
+"continentalRegion": {
+"name": "Asia Pacific"
+},
+"addressLocality": {
+"name": "Bengaluru"
+},
+"minorTownName": null,
+"addressRegion": {
+"name": "Karnataka",
+"abbreviatedName": "KA",
+"isoSubDivisionName": "Karnataka",
+"isoSubDivisionCode": "IN-KA",
+"administrativeDivisionCode": null
+},
+"addressCounty": {},
+"streetAddress": {
+"line1": "Regus, Tejas Arcade #527/b, 3rd & 4th Floor 1st Main Road",
+"line2": "Dr. Rajkumar Road, Rajajinagar"
+},
+"postalCode": "560010",
+"postalCodePosition": {
+"description": "Post Code presented after Town/City name",
+"dnbCode": 1011
+},
+"postalRoute": null,
+"streetNumber": null,
+"streetName": null,
+"postOfficeBox": {},
+"standardAddressCodes": [],
+"isRegisteredAddress": true,
+"latitude": 12.99877,
+"longitude": 77.57331,
+"geographicalPrecision": {
+"description": "Postal Code Centroid",
+"dnbCode": 30258
+},
+"statisticalArea": {},
+"isManufacturingLocation": null
+},
+"businessEntityType": {
+"description": "Corporation",
+"dnbCode": 451
+},
+"countryISOAlpha2Code": "IN",
+"dunsControlStatus": {
+"operatingStatus": {
+"description": "Active",
+"dnbCode": 9074,
+"startDate": null
+},
+"operatingSubStatus": {
+"description": "Active",
+"dnbCode": 9074,
+"startDate": null
+},
+"detailedOperatingStatus": {},
+"isMarketable": true,
+"isMailUndeliverable": false,
+"isTelephoneDisconnected": null,
+"isDelisted": false,
+"subjectHandlingDetails": [],
+"firstReportDate": null,
+"recordClass": {},
+"isSelfRequestedDUNS": null,
+"selfRequestDate": null
+},
+"controlOwnershipType": {},
+"financials": [
+{
+"financialStatementToDate": null,
+"financialStatementDuration": null,
+"informationScopeDescription": null,
+"informationScopeDnBCode": null,
+"reliabilityDescription": "Modelled",
+"reliabilityDnBCode": 9094,
+"unitCode": "SingleUnits",
+"yearlyRevenue": [
+{
+"value": 1.98168709E8,
+"currency": "INR"
+},
+{
+"value": 2360982.0,
+"currency": "USD"
+}
+]
+}
+],
+"summary": [],
+"multilingualPrimaryName": [],
+"multilingualRegisteredNames": [],
+"legalForm": {
+"description": "Private Limited Company",
+"dnbCode": 31148,
+"startDate": "2021-05-25",
+"registrationLocation": {}
+},
+"multilingualTradestyleNames": [],
+"preferredLanguage": {
+"description": "English",
+"dnbCode": 39
+},
+"stockExchanges": [],
+"mailingAddress": {},
+"websiteAddress": [],
+"standardizedStockExchanges": [],
+"banks": [],
+"startDate": "2021-05-25",
+"globalUltimate": {},
+"domesticUltimate": {},
+"certifiedEmail": null,
+"registeredDetails": {
+"legalForm": {
+"description": "Private Limited Liability Company",
+"dnbCode": 12903,
+"registrationStatus": {},
+"localLegalForms": []
+}
+},
+"employerDesignation": {},
+"multilingualRegisteredAddress": [],
+"investigationDate": null,
+"registeredName": "EXOSTAR INDIA PRIVATE LIMITED",
+"charterType": {},
+"tsrReportDate": null,
+"multiLingualSearchNames": [],
+"imperialCalendarStartYear": null,
+"multilingualPrimaryAddress": [],
+"fiscalYearEnd": null,
+"corporateLinkage": {},
+"incorporatedDate": "2021-05-25",
+"securitiesReportID": null,
+"activities": [],
+"industrialPlantsCount": null,
+"defaultCurrency": "INR",
+"registrationNumbers": [
+{
+"registrationNumber": "AAGCE4803L",
+"typeDescription": "Tax Identification Number (IN)",
+"typeDnBCode": 12897,
+"registrationNumberClass": {
+"description": "Fiscal / Tax Registration Number",
+"dnbCode": 2929
+},
+"isPreferredRegistrationNumber": null,
+"registrationLocation": null
+},
+{
+"registrationNumber": "U72900KA2021FTC147805",
+"typeDescription": "Company Incorporation Number (IN)",
+"typeDnBCode": 1362,
+"registrationNumberClass": {
+"description": "National Business Registration Number",
+"dnbCode": 2888
+},
+"isPreferredRegistrationNumber": null,
+"registrationLocation": null
+}
+],
+"email": [
+{
+"address": "sudeep.dharan@exostar.com"
+}
+],
+"businessTrustIndex": {},
+"unspscCodes": [
+{
+"code": "81110000",
+"description": "Computer services",
+"priority": 1
+}
+],
+"numberOfEmployees": [
+{
+"value": 26,
+"employeeFiguresDate": "2023-07-31",
+"informationScopeDescription": "Consolidated",
+"informationScopeDnBCode": 9067,
+"reliabilityDescription": "Actual",
+"reliabilityDnBCode": 9092,
+"employeeCategories": [],
+"trend": []
+},
+{
+"value": 26,
+"employeeFiguresDate": "2023-07-31",
+"informationScopeDescription": "Individual",
+"informationScopeDnBCode": 9066,
+"reliabilityDescription": "Actual",
+"reliabilityDnBCode": 9092,
+"employeeCategories": []
+}
+],
+"subjectComments": [],
+"legalEntityIdentifier": null
+}
 }
