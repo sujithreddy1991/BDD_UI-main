@@ -1,7 +1,0 @@
-{
-  "appliesTo":"Participant",
-  "demographicKey":null,
-  "required":false,
-  "quantity":1,
-  "period":"day"
-}
